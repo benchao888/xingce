@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "notes": "更新源加固：改用 jsDelivr CDN 检测更新，国内稳定可达；激活页布局优化与「卖家→作者」措辞统一。",
-  "patchCdn": "https://cdn.jsdelivr.net/gh/benchao888/xingce@main/pc-patch-v1.3.4.zip",
-  "patchRaw": "https://raw.githubusercontent.com/benchao888/xingce/main/pc-patch-v1.3.4.zip",
+  "version": "1.3.5",
+  "notes": "关于页界面优化：头部卡片化、版本号胶囊徽章、「检查更新」设为主按钮、整体留白与配色更协调。",
+  "patchCdn": "https://cdn.jsdelivr.net/gh/benchao888/xingce@main/pc-patch-v1.3.5.zip",
+  "patchRaw": "https://raw.githubusercontent.com/benchao888/xingce/main/pc-patch-v1.3.5.zip",
   "full": "https://github.com/benchao888/xingce/releases"
 }
