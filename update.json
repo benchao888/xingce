@@ -1,0 +1,7 @@
+{
+  "version": "1.3.4",
+  "notes": "更新源加固：改用 jsDelivr CDN 检测更新，国内稳定可达；激活页布局优化与「卖家→作者」措辞统一。",
+  "patchCdn": "https://cdn.jsdelivr.net/gh/benchao888/xingce@main/pc-patch-v1.3.4.zip",
+  "patchRaw": "https://raw.githubusercontent.com/benchao888/xingce/main/pc-patch-v1.3.4.zip",
+  "full": "https://github.com/benchao888/xingce/releases"
+}
